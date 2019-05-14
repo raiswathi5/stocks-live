@@ -3,7 +3,7 @@
 This app shows real time stock market data in the form of table.
 The app subscribes for updates via WebSockets (server url: ws://stocks.mnet.website).
 
-This project was bootstrapped with `create-react-app` and deployed live at:
+This project was bootstrapped with `create-react-app` and deployed live at: http://stockslive.herokuapp.com/ .
 
 
 # Running the application locally
@@ -12,7 +12,7 @@ This project was bootstrapped with `create-react-app` and deployed live at:
 
 **Clone the repo:**
 
-    git clone 
+    git clone https://github.com/raiswathi5/stocks-live.git
 
 **Install dependencies:**
 
